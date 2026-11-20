@@ -1,0 +1,103 @@
+﻿ЛИЦЕНЗИОННОЕ СОГЛАШЕНИЕ VEYLUNE
+© 2026 mrsemkaz. Все права защищены.
+
+1. Правообладатель
+Автором и единственным правообладателем программы Veylune является mrsemkaz (Telegram @mrsemkaz, Discord mrsemkaz, e-mail semka007129@gmail.com).
+Исключительные права принадлежат правообладателю на всю программу целиком: исполняемые файлы, исходный код, интерфейс и дизайн, темы оформления, виджет, логотип и иконки, тексты, документацию, установщик и последующие версии. Программа охраняется законодательством об авторском праве и международными договорами (в том числе Бернской конвенцией).
+
+2. Лицензия
+Программа распространяется бесплатно по закрытой (проприетарной) лицензии. Пользователь получает неисключительное, непередаваемое, бесплатное право использовать программу на условиях этого соглашения. Программа не продаётся — передаётся только право её использования; все права, прямо не предоставленные соглашением, сохраняются за правообладателем.
+
+3. Что разрешено
+ • Установить программу на свой компьютер и обновлять её.
+ • Использовать программу в личных некоммерческих целях для прослушивания своей музыки.
+ • Создавать свои плейлисты и темы оформления из собственных изображений.
+ • Показывать программу в видео, стримах и обзорах с указанием её названия и автора.
+ • Удалить программу в любое время.
+
+4. Что запрещено
+Без предварительного письменного разрешения правообладателя запрещается:
+ • Любое коммерческое использование программы.
+ • Продажа, сдача в аренду, распространение за плату, включение программы в платные продукты, сборки, сервисы и наборы программ.
+ • Распространение, публикация, размещение в открытом доступе и передача копий программы или её частей третьим лицам. Распространять программу вправе только правообладатель.
+ • Изменение, модификация, перевод, адаптация программы и создание на её основе производных работ.
+ • Декомпиляция, дизассемблирование, обратная разработка, извлечение и использование исходного кода, графики и других ресурсов программы.
+ • Переписывание или воспроизведение кода программы вручную, а также с помощью искусственного интеллекта (нейросетей, генераторов кода и аналогичных инструментов) — включая повторение её кода, структуры, интерфейса и функций на основе программы или её исходного кода.
+ • Использование программы, её кода, текстов, графики и интерфейса для обучения или настройки моделей искусственного интеллекта.
+ • Удаление или изменение сведений об авторстве, знаков охраны авторского права и текста этого соглашения.
+ • Использование названия Veylune и логотипа программы для своих продуктов и выдача программы за свою.
+
+5. Исходный код
+Исходный код Veylune является конфиденциальной собственностью правообладателя, не публикуется и не передаётся пользователям. Получение доступа к исходному коду любым способом не даёт никаких прав на его использование, копирование, изменение или распространение.
+
+6. Музыка и файлы пользователя
+Veylune — проигрыватель: программа не содержит, не продаёт и не распространяет музыку. Пользователь сам добавляет в программу свои файлы и самостоятельно отвечает за наличие прав на них. Права на музыку, обложки и другие материалы принадлежат их правообладателям.
+Программа читает аудиофайлы и их теги, сохраняет обложки в свою папку данных и не изменяет исходные файлы. Файлы удаляются с устройства только по прямой команде пользователя «Удалить с устройства» — в корзину Windows. Импорт с телефона копирует выбранные файлы в папку «Музыка\Veylune».
+
+7. Конфиденциальность
+Программа работает локально и не собирает, не отправляет и не продаёт ваши данные. Библиотека, плейлисты, настройки и темы хранятся только на вашем компьютере (%APPDATA%\Veylune). Приём файлов по Wi‑Fi работает только в локальной сети пользователя и только пока он включён в программе.
+
+8. Отказ от гарантий и ограничение ответственности
+Программа предоставляется «как есть», без каких-либо гарантий. Правообладатель не несёт ответственности за прямой или косвенный ущерб, потерю данных или сбои в работе компьютера, возникшие в результате использования или невозможности использования программы.
+
+9. Прекращение действия
+Соглашение действует с момента установки программы. При нарушении любого из его условий право использования прекращается автоматически: программу и все её копии нужно удалить. Правообладатель вправе защищать свои права в порядке, предусмотренном законодательством, в том числе требовать прекращения нарушения и возмещения убытков.
+
+10. Сторонние компоненты
+Программа использует платформу .NET (Microsoft, лицензия MIT), библиотеки NAudio, NAudio.Vorbis, NVorbis, Concentus и QRCoder (лицензия MIT), TagLib# (лицензия LGPL 2.1) и стандартные компоненты Windows. Microsoft, Windows и другие названия являются товарными знаками их владельцев; права на них этим соглашением не затрагиваются.
+
+11. Разрешения и связь
+По вопросам использования, распространения, сотрудничества и получения разрешений обращайтесь к правообладателю: Telegram @mrsemkaz, Discord mrsemkaz, e-mail semka007129@gmail.com.
+
+==========================================================================================
+
+VEYLUNE END USER LICENSE AGREEMENT
+© 2026 mrsemkaz. All rights reserved.
+
+1. Copyright holder
+The author and sole copyright holder of the Veylune program is mrsemkaz (Telegram @mrsemkaz, Discord mrsemkaz, e-mail semka007129@gmail.com).
+The exclusive rights cover the entire program: executable files, source code, interface and design, themes, the widget, logo and icons, texts, documentation, the installer and future versions. The program is protected by copyright laws and international treaties (including the Berne Convention).
+
+2. License
+The program is distributed free of charge under a closed (proprietary) license. The user receives a non-exclusive, non-transferable, free right to use the program under the terms of this agreement. The program is licensed, not sold; all rights not expressly granted by this agreement are reserved by the copyright holder.
+
+3. What you may do
+ • Install the program on your own computer and update it.
+ • Use the program for personal, non-commercial purposes to listen to your own music.
+ • Create your own playlists and themes from your own images.
+ • Show the program in videos, streams and reviews, stating its name and author.
+ • Uninstall the program at any time.
+
+4. What is prohibited
+Without prior written permission of the copyright holder it is prohibited to:
+ • Use the program commercially in any way.
+ • Sell, rent, distribute for a fee, or include the program in paid products, bundles, services or software packs.
+ • Distribute, publish, make publicly available or transfer copies of the program or its parts to third parties. Only the copyright holder may distribute the program.
+ • Change, modify, translate or adapt the program, or create derivative works based on it.
+ • Decompile, disassemble, reverse engineer, extract or use the source code, graphics and other resources of the program.
+ • Rewrite or reproduce the program's code manually or with artificial intelligence (neural networks, code generators and similar tools), including recreating its code, structure, interface and features based on the program or its source code.
+ • Use the program, its code, texts, graphics and interface to train or fine-tune artificial intelligence models.
+ • Remove or alter authorship information, copyright notices and the text of this agreement.
+ • Use the Veylune name and logo for your own products or present the program as your own.
+
+5. Source code
+The source code of Veylune is confidential property of the copyright holder; it is not published or provided to users. Gaining access to the source code by any means grants no rights to use, copy, modify or distribute it.
+
+6. Music and user files
+Veylune is a player: the program does not contain, sell or distribute music. The user adds their own files and is solely responsible for having the rights to them. Rights to music, cover art and other materials belong to their respective owners.
+The program reads audio files and their tags, stores cover art in its data folder and does not modify the original files. Files are deleted from the device only by the user's explicit "Delete from device" command — to the Windows Recycle Bin. Import from a phone copies the selected files to the "Music\Veylune" folder.
+
+7. Privacy
+The program works locally and does not collect, send or sell your data. The library, playlists, settings and themes are stored only on your computer (%APPDATA%\Veylune). Wi‑Fi file transfer works only inside the user's local network and only while it is turned on in the program.
+
+8. Disclaimer of warranty and limitation of liability
+The program is provided "as is" without any warranties. The copyright holder is not liable for any direct or indirect damage, data loss or computer malfunction resulting from the use of or inability to use the program.
+
+9. Termination
+This agreement is effective from the moment the program is installed. If any of its terms is violated, the right to use the program terminates automatically, and the program and all its copies must be deleted. The copyright holder may protect their rights as provided by law, including demanding that the violation stop and claiming damages.
+
+10. Third-party components
+The program uses the .NET platform (Microsoft, MIT license), the NAudio, NAudio.Vorbis, NVorbis, Concentus and QRCoder libraries (MIT license), TagLib# (LGPL 2.1 license) and standard Windows components. Microsoft, Windows and other names are trademarks of their respective owners; rights to them are not affected by this agreement.
+
+11. Permissions and contact
+For questions about use, distribution, cooperation and permissions, contact the copyright holder: Telegram @mrsemkaz, Discord mrsemkaz, e-mail semka007129@gmail.com.
